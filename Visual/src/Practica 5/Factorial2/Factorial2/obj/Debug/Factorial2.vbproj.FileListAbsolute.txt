@@ -1,0 +1,10 @@
+E:\Visual 12\Practica 5\Factorial2\Factorial2\bin\Debug\Factorial2.exe.config
+E:\Visual 12\Practica 5\Factorial2\Factorial2\obj\Debug\Factorial2.Form1.resources
+E:\Visual 12\Practica 5\Factorial2\Factorial2\obj\Debug\Factorial2.Resources.resources
+E:\Visual 12\Practica 5\Factorial2\Factorial2\obj\Debug\Factorial2.vbproj.GenerateResource.Cache
+E:\Visual 12\Practica 5\Factorial2\Factorial2\bin\Debug\Factorial2.exe
+E:\Visual 12\Practica 5\Factorial2\Factorial2\bin\Debug\Factorial2.pdb
+E:\Visual 12\Practica 5\Factorial2\Factorial2\bin\Debug\Factorial2.xml
+E:\Visual 12\Practica 5\Factorial2\Factorial2\obj\Debug\Factorial2.exe
+E:\Visual 12\Practica 5\Factorial2\Factorial2\obj\Debug\Factorial2.xml
+E:\Visual 12\Practica 5\Factorial2\Factorial2\obj\Debug\Factorial2.pdb

@@ -1,0 +1,36 @@
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Visual\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Visual 12\Practica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Visual 12\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Visual 12\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Visual 12\Practica\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

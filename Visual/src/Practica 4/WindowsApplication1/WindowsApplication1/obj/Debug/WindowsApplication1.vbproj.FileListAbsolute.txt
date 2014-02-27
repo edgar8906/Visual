@@ -1,0 +1,2 @@
+F:\Visual\Practica 4\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Visual 12\Practica 4\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config

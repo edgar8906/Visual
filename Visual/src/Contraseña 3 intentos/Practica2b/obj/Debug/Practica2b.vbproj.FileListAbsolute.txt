@@ -1,0 +1,16 @@
+E:\LOE\Practica2b\Practica2b\bin\Debug\Practica2b.exe.config
+E:\LOE\Practica2b\Practica2b\bin\Debug\Practica2b.exe
+E:\LOE\Practica2b\Practica2b\bin\Debug\Practica2b.pdb
+E:\LOE\Practica2b\Practica2b\bin\Debug\Practica2b.xml
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.Form1.resources
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.Form2.resources
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.Form3.resources
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.Resources.resources
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.vbproj.GenerateResource.Cache
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.exe
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.xml
+E:\LOE\Practica2b\Practica2b\obj\Debug\Practica2b.pdb
+E:\Practica2b\Practica2b\bin\Debug\Practica2b.exe.config
+E:\Practica2b\Practica2b\obj\Debug\Practica2b.exe
+E:\Practica2b\Practica2b\obj\Debug\Practica2b.xml
+E:\Practica2b\Practica2b\obj\Debug\Practica2b.pdb

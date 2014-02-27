@@ -1,0 +1,11 @@
+E:\EVENTOS\practica 6\practica 6\practica 6\bin\Debug\practica 6.exe.config
+E:\EVENTOS\practica 6\practica 6\practica 6\bin\Debug\practica 6.exe
+E:\EVENTOS\practica 6\practica 6\practica 6\bin\Debug\practica 6.pdb
+E:\EVENTOS\practica 6\practica 6\practica 6\bin\Debug\practica 6.xml
+E:\EVENTOS\practica 6\practica 6\practica 6\obj\Debug\practica_6.Form1.resources
+E:\EVENTOS\practica 6\practica 6\practica 6\obj\Debug\practica_6.Resources.resources
+E:\EVENTOS\practica 6\practica 6\practica 6\obj\Debug\practica 6.vbproj.GenerateResource.Cache
+E:\EVENTOS\practica 6\practica 6\practica 6\obj\Debug\practica 6.exe
+E:\EVENTOS\practica 6\practica 6\practica 6\obj\Debug\practica 6.xml
+E:\EVENTOS\practica 6\practica 6\practica 6\obj\Debug\practica 6.pdb
+E:\EVENTOS\practica 6\practica 6\practica 6\obj\Debug\practica_6.Form2.resources
